@@ -1,0 +1,8 @@
+prefix=/home/sarvesh/drone_ws/devel
+
+Name: quadrotor_local_planner
+Description: Description of quadrotor_local_planner
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/sarvesh/drone_ws/devel/lib 
+Requires: 

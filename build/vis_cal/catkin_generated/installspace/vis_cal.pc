@@ -1,0 +1,8 @@
+prefix=/home/sarvesh/drone_ws/install
+
+Name: vis_cal
+Description: Description of vis_cal
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/sarvesh/drone_ws/install/lib 
+Requires: 

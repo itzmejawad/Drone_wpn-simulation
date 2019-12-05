@@ -1,0 +1,8 @@
+prefix=/home/sarvesh/drone_ws/devel
+
+Name: costmap_3d
+Description: Description of costmap_3d
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/sarvesh/drone_ws/devel/lib 
+Requires: 

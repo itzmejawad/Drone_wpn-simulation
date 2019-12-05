@@ -1,0 +1,8 @@
+prefix=/home/sarvesh/drone_ws/devel
+
+Name: quadrotr_worlds
+Description: Description of quadrotr_worlds
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/sarvesh/drone_ws/devel/lib 
+Requires: 

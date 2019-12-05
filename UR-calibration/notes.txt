@@ -1,0 +1,3 @@
+Calibration board: Grid: 12,5 mm. 8x6 inner corners
+Camera: iDS UI-3140CP-C-HQ Rev. 2
+Lens: Kowa LM8HC (8mm)
